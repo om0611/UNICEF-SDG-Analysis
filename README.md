@@ -20,6 +20,7 @@ This project aims to analyze the progress of South American countries towards ac
 - The proportion of South American countries on track toward their SDGs is equal to the proportion of non-South American countries.
 - South American countries are struggling with SDG 10 (Reduced Inequalities).
 - Level of education is positively correlated with average SDG score.
+- Percentage of children consuming foods from at least five different food groups is positively correlated with SDG 2 (Zero Hunger). 
 
 ## Presentation
 Watch it [here](https://drive.google.com/file/d/1KEh3IV-3VxLMzikxadm6T3Zc2ceMP0Nm/view?usp=sharing).
